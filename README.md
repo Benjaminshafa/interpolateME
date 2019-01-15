@@ -1,5 +1,4 @@
 
-=========================================
 How to run the component? 
 Assuming you have node.js already installed. You can run the code by executing "node server.js"
 
